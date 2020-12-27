@@ -1,0 +1,15 @@
+{
+  "name": "guten-spreadsheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^12.6.0"
+  }
+}
